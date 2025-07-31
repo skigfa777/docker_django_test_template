@@ -5,3 +5,7 @@ django-admin startproject --template=/opt/django_template --name=settings.py $DJ
 `
 
 Содержит тестовый проект для отладки сборки с Docker (+docker compose), Nginx, Gunicorn, PosgreSQL. С загрузкой и сохранением файлов, миграциями.
+
+Для запуска с
+https://github.com/skigfa777/docker_django_dev
+https://github.com/skigfa777/docker_django_prod
